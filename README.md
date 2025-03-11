@@ -24,3 +24,9 @@ To get started with this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/geometry-area-calculator.git
+
+
+   💡 Feel free to explore the project and contribute! 🚀
+🔗 Live Demo:  [Your GitHub Pages Link](https://alexsand-r.github.io/Calculation-of-area/)
+📫 Contact Me:
+1inboxna@gmail.com
